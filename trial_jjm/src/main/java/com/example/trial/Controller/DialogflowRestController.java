@@ -58,9 +58,9 @@ public class DialogflowRestController {
 	
 	//private String userText = "";
     private final String LANG_CODE = "ko";
-    private final String PROJECT_ID = "chatbot-restaurant-cirquv";
+    private final String PROJECT_ID = "   "; //id of dialogflow project name
     private String sessionId;
-    private final String credential = "C:\\Users\\jeomn\\hanium\\dialogflow_key";
+    private final String credential = "   "; //path of dialogflowkey
     private final String URL = "https://dialogflow.googleapis.com/v2/{session=projects/chatbot-restaurant-cirquv/agent/sessions/" +
             sessionId + "}:detectIntent";
     
