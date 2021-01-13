@@ -19,8 +19,11 @@ Run
 
 ### Kim Hyo Rin
 * Session
+* Design Dialogflow
+* Create Dialogflow Data
 
 ### Park Ha Yeon
+* Session
 * Access MongoDB from Spring Boot Application
 
 ### JISOONLEE
