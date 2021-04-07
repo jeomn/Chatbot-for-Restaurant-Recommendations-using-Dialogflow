@@ -13,8 +13,8 @@ Run
 ## Contributors
 ### [Ji-Min Jeong](https://github.com/jeomn/Chatbot-Recommend-Restaurant-using-Dialogflow)
 * Design and Build Spring Boot MVC Rest API
-* Getting/Seding Data by Ajax in Spring Boot
-* Getting/Seding Data with Dialogflow in Spring Boot
+* Getting/Sending Data by Ajax in Spring Boot
+* Getting/Sending Data with Dialogflow in Spring Boot
 * Access MongoDB from Spring Boot Using JPA
 
 ### Kim Hyo Rin
