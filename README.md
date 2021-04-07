@@ -16,6 +16,7 @@ Run
 * Getting/Sending Data by Ajax in Spring Boot
 * Getting/Sending Data with Dialogflow in Spring Boot
 * Access MongoDB from Spring Boot Using JPA
+* Design Dialogflow
 
 ### Kim Hyo Rin
 * Session
@@ -25,11 +26,14 @@ Run
 ### Park Ha Yeon
 * Session
 * Access MongoDB from Spring Boot Application
+* Design Dialogflow
 
 ### JISOONLEE
 * UI
 * AWS Server
+* Design MongoDB
 * Create MongoDB Data Using Crawling
+* Design Dialogflow
 
 ### HongHong0715
 * Design Dialogflow
