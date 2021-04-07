@@ -28,7 +28,7 @@ Run
 * Access MongoDB from Spring Boot Application
 * Design Dialogflow
 
-### JISOONLEE
+### [JISOONLEE](https://github.com/JISOONLEE/Chatbot-for-restaurant-recommendations-using-dialogflow)
 * UI
 * AWS Server
 * Design MongoDB
